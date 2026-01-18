@@ -1,7 +1,7 @@
-# matrix-walker
+# parallel-batch-dynamic-graph-connectivity
 
 Source:
-- https://github.com/6851-2021/matrix-walker
+- https://github.com/6851-2021/parallel-batch-dynamic-graph-connectivity
 
 ## What problem does it solve?
 

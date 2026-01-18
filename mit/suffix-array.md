@@ -1,7 +1,7 @@
-# matrix-walker
+# suffix-array
 
 Source:
-- https://github.com/6851-2021/matrix-walker
+- https://github.com/6851-2021/suffix-array
 
 ## What problem does it solve?
 
